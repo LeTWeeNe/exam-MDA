@@ -42,7 +42,7 @@ return [
     |
     */
 
-    'debug' => true, //(bool) env('APP_DEBUG', false),
+    'debug' => false, //(bool) env('APP_DEBUG', false),
 
     /*
     |--------------------------------------------------------------------------
